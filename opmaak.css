@@ -15,3 +15,10 @@ p {
 a {color: (78, 217, 54) ;text-align: center;
 margin-left: 20px;
 } 
+
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="pagina2.html">binair stelsel</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
