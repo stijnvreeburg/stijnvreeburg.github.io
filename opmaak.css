@@ -8,7 +8,7 @@ h1 {
 }
 
 h3 {
-  color: blue(24, 148, 220);
+  color: rgb(24, 148, 220); text-align: center;
   margin-left: 20px;
 }
 
