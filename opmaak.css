@@ -1,25 +1,25 @@
 
 
 body {
-  background-color: rgba(246, 247, 249, 0.961);
+  background-color: rgba(78, 205, 231, 0.961);
 }
 
 h1 {
-  color: rgb(24, 148, 220); text-align: center; 
+  color: rgb(0, 11, 17); text-align: center; 
   margin-left: 20px;
 }
 
 h2 {
-  color: rgb(24, 148, 220); text-align: center;
+  color: rgb(1, 14, 21); text-align: center;
 }
 
 h3 {
-  color: rgb(24, 148, 220); text-align: center;
+  color: rgb(1, 13, 20); text-align: center;
   margin-left: 20px;
 }
 
 
 p {
-  color: rgb(24, 148, 220);text-align: center;
+  color: rgb(0, 11, 17);text-align: center;
   margin-left: 20px;
 }
