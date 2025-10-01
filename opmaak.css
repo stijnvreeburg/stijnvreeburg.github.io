@@ -9,6 +9,10 @@ h1 {
   margin-left: 20px;
 }
 
+h2 {
+  color: rgb(24, 148, 220); text-align: center;
+}
+
 h3 {
   color: rgb(24, 148, 220); text-align: center;
   margin-left: 20px;
