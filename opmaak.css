@@ -24,27 +24,3 @@ p {
   margin-left: 20px;
 }
 
-.menu {
-  list-style-type: none; /* Geen bullets */
-  margin: 0;
-  padding: 0;
-  display: flex; /* horizontale rij */
-}
-
-.menu li {
-  margin-right: 20px; /* ruimte tussen items */
-}
-
-.menu li a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-  padding: 8px 12px;
-  display: block;
-  transition: background-color 0.3s;
-}
-
-.menu li a:hover {
-  background-color: #555; /* lichte hover effect */
-  border-radius: 4px;
-}
