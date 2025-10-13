@@ -53,3 +53,12 @@ ul li a:hover {
   background-color: rgb(77, 2, 2);
 }
 
+.footer {
+    position: sticky;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(158, 15, 36);
+    color: rgb(255, 255, 255);
+    text-align: center;
+ }
